@@ -41,14 +41,21 @@ spacy.load('en_core_web_sm')
 # In[ ]:
 
 
+# path = 'D:/Mega/Z_Simon/5 - WORK/1 - Projets/Projet 5/saved_ressources/'
+path = 'ressources/'
+
+
+# In[ ]:
+
+
 # load the saved CountVectorizer
-vectorizer_loaded = joblib.load('D:/Mega/Z_Simon/5 - WORK/1 - Projets/Projet 5/saved_ressources/countvectorizer.joblib')
+vectorizer_loaded = joblib.load(path + 'countvectorizer.joblib')
 
 # # load the saved classifier
 # clf_loaded = joblib.load('D:/Mega/Z_Simon/5 - WORK/1 - Projets/Projet 5/saved_ressources/sgdc_classifier.pkl')
 
 # load the saved MultiLabelBinarizer
-mlb_loaded = joblib.load('D:/Mega/Z_Simon/5 - WORK/1 - Projets/Projet 5/saved_ressources/multilabelbinarizer.joblib')
+mlb_loaded = joblib.load(path + 'multilabelbinarizer.joblib')
 
 
 # In[ ]:
@@ -77,7 +84,7 @@ user_input = st.text_area("Collez ici un post de Stack Overflow:", height=150)
 # In[ ]:
 
 
-with open('D:/Mega/Z_Simon/5 - WORK/1 - Projets/Projet 5/saved_ressources/pipeline_tags.pkl', 'rb') as file:
+with open(path + 'pipeline_tags.pkl', 'rb') as file:
     pipeline_tags = dill.load(file)
 
 
