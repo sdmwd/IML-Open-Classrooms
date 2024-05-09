@@ -1,34 +1,33 @@
+# Projets de Formation d'Ingénieur en Machine Learning
 
-# Machine Learning Engineer Course Projects
+Ce dépôt contient une série de projets réalisés dans le cadre de ma formation d'ingénieur en machine learning. Chaque projet aborde un aspect différent du machine learning, allant de la définition de stratégie aux applications de deep learning.
 
-This repository contains a series of projects completed as part of my Machine Learning Engineer course. Each project addresses a different aspect of machine learning, from strategy definition to deep learning applications.
+## Aperçu des Projets
 
-## Projects Overview
+- **P1 - Définissez Votre Stratégie d'Apprentissage**
+  - **Objectif** : Élaborer un plan stratégique pour adopter le machine learning au sein d'une organisation.
+  - **Compétences** : Planification stratégique, théorie du machine learning.
 
-### P1 - Define Your Learning Strategy
-- **Objective**: Outline a strategic plan for adopting machine learning within an organization.
-- **Skills**: Strategic planning, ML theory.
+- **P2 - Concevez une Application au Service de la Santé Publique**
+  - **Objectif** : Créer une application utilisant le machine learning pour soutenir les initiatives de santé publique.
+  - **Compétences** : Informatique de santé, conception d'applications.
 
-### P2 - Design an Application for Public Health Service
-- **Objective**: Create an application that utilizes machine learning to serve public health initiatives.
-- **Skills**: Health informatics, application design.
+- **P3 - Anticipez les Besoins en Consommation des Bâtiments**
+  - **Objectif** : Développer des modèles pour prévoir la consommation énergétique future des bâtiments.
+  - **Compétences** : Prévision énergétique, analyse de régression.
 
-### P3 - Anticipate Building Consumption Needs
-- **Objective**: Develop models to predict future energy consumption of buildings.
-- **Skills**: Energy prediction, regression analysis.
+- **P4 - Segmentez les Clients d'un Site E-commerce**
+  - **Objectif** : Utiliser des techniques de clustering pour segmenter les clients en fonction de leur comportement sur un site e-commerce.
+  - **Compétences** : Clustering, analyse client.
 
-### P4 - Segment E-commerce Customers
-- **Objective**: Use clustering techniques to segment customers based on their behavior on an e-commerce website.
-- **Skills**: Clustering, customer analysis.
+- **P5 - Catégorisez Automatiquement des Questions**
+  - **Objectif** : Développer un outil pour classer automatiquement les questions dans des catégories prédéfinies.
+  - **Compétences** : Traitement du langage naturel, classification.
 
-### P5 - Automatically Categorize Questions
-- **Objective**: Develop a tool to automatically categorize questions into predefined categories.
-- **Skills**: Natural language processing, classification.
+- **P6 - Classez des Images à l'Aide d'Algorithmes de Deep Learning**
+  - **Objectif** : Implémenter et entraîner des modèles de deep learning pour classer des images.
+  - **Compétences** : Deep learning, traitement d'images.
 
-### P6 - Classify Images with Deep Learning Algorithms
-- **Objective**: Implement and train deep learning models to classify images.
-- **Skills**: Deep learning, image processing.
-
-### P7 - Develop a Proof of Concept
-- **Objective**: Develop a prototype to demonstrate the feasibility of a machine learning application.
-- **Skills**: Prototyping, proof of concept development.
+- **P7 - Développez une Preuve de Concept**
+  - **Objectif** : Développer un prototype pour démontrer la faisabilité d'une application en machine learning.
+  - **Compétences** : Prototypage, développement de preuve de concept.
